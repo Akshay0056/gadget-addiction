@@ -7,7 +7,7 @@ Werkzeug==1.0.1
 # ML/DL core
 tensorflow==1.14.0
 Keras==2.3.1
-numpy==1.23.5
+numpy==1.16.6
 pandas==0.24.2
 scikit-learn==0.20.4
 nltk==3.4.5
